@@ -1,0 +1,30 @@
+{
+    "camera_1": {
+        "camera_name": "c1",
+        "camera_id": "camera_1",
+        "camera_ip": "192.168.0.1",
+        "camera_feed": "C:\\project-3(roi)\\videos\\car_bike.mp4",
+        "camera_outcome": ["car", "bike"]
+    },
+    "camera_2": {
+        "camera_name": "c2",
+        "camera_id": "camera_2",
+        "camera_ip": "192.168.0.1",
+        "camera_feed": "C:\\project-3(roi)\\videos\\helmet_jacket.mp4",
+        "camera_outcome": ["helmet", "jacket"]
+    },
+    "camera_3": {
+        "camera_name": "c3",
+        "camera_id": "camera_3",
+        "camera_ip": "192.168.0.1",
+        "camera_feed": "C:\\project-3(roi)\\videos\\Fire_smoke_video.mp4",
+        "camera_outcome": ["fire", "smoke"]
+    },
+    "camera_4": {
+        "camera_name": "c4",
+        "camera_id": "camera_4",
+        "camera_ip": "192.168.0.1",
+        "camera_feed": "C:\\project-3(roi)\\videos\\\\Person_video.mp4",
+        "camera_outcome": ["person"]
+    }
+}

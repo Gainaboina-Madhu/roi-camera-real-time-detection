@@ -1,0 +1,1533 @@
+2026-08-06 23:34:37,230 | DETECTION_SUBSCRIBER | INFO | RabbitMQ Connected Successfully
+2026-08-06 23:34:37,620 | DETECTION_SUBSCRIBER | INFO | YOLOv7 Loaded Successfully on cpu
+2026-08-06 23:34:37,621 | DETECTION_SUBSCRIBER | INFO | Classes: ['Person', 'Bike', 'Car', 'Helmet', 'Jacket', 'Fire', 'Smoke']
+2026-08-06 23:34:37,622 | DETECTION_SUBSCRIBER | INFO | Waiting for frames...
+2026-08-06 23:50:51,756 | DETECTION_SUBSCRIBER | INFO | RabbitMQ Connected Successfully
+2026-08-06 23:50:52,135 | DETECTION_SUBSCRIBER | INFO | YOLOv7 Loaded Successfully on cpu
+2026-08-06 23:50:52,136 | DETECTION_SUBSCRIBER | INFO | Classes: ['Person', 'Bike', 'Car', 'Helmet', 'Jacket', 'Fire', 'Smoke']
+2026-08-06 23:50:52,139 | DETECTION_SUBSCRIBER | INFO | Waiting for frames...
+2026-08-07 00:02:41,050 | DETECTION_SUBSCRIBER | INFO | RabbitMQ Connected Successfully
+2026-08-07 00:02:41,452 | DETECTION_SUBSCRIBER | INFO | YOLOv7 Loaded Successfully on cpu
+2026-08-07 00:02:41,452 | DETECTION_SUBSCRIBER | INFO | Classes: ['Person', 'Bike', 'Car', 'Helmet', 'Jacket', 'Fire', 'Smoke']
+2026-08-07 00:02:41,454 | DETECTION_SUBSCRIBER | INFO | Waiting for frames...
+2026-08-07 00:03:57,615 | DETECTION_SUBSCRIBER | INFO | RabbitMQ Connected Successfully
+2026-08-07 00:03:57,909 | DETECTION_SUBSCRIBER | INFO | YOLOv7 Loaded Successfully on cpu
+2026-08-07 00:03:57,909 | DETECTION_SUBSCRIBER | INFO | Classes: ['Person', 'Bike', 'Car', 'Helmet', 'Jacket', 'Fire', 'Smoke']
+2026-08-07 00:03:58,534 | DETECTION_SUBSCRIBER | INFO | Waiting for frames from c1, c2, c3, c4...
+2026-08-07 00:03:59,808 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:03:59,809 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.63
+2026-08-07 00:03:59,810 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:03:59,811 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:03:59,823 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:04:02,997 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:04:02,998 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:04:02,998 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.44
+2026-08-07 00:04:02,999 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:04:03,005 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:03,897 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:04:03,898 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:04:03,898 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.54
+2026-08-07 00:04:03,898 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.49
+2026-08-07 00:04:03,902 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:04:05,585 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:04:05,585 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.52
+2026-08-07 00:04:05,586 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:04:05,594 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:06,139 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:04:06,139 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.43
+2026-08-07 00:04:06,140 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:04:06,148 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:06,751 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:04:06,751 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:04:06,758 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike']
+2026-08-07 00:04:07,289 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:04:07,290 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.43
+2026-08-07 00:04:07,290 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.33
+2026-08-07 00:04:07,295 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:07,881 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.47
+2026-08-07 00:04:07,882 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.46
+2026-08-07 00:04:07,882 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.37
+2026-08-07 00:04:07,890 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:08,412 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:04:08,413 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:04:08,413 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:04:08,421 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:09,035 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.80
+2026-08-07 00:04:09,035 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.42
+2026-08-07 00:04:09,036 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.40
+2026-08-07 00:04:09,044 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:09,674 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:04:09,674 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.59
+2026-08-07 00:04:09,675 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.59
+2026-08-07 00:04:09,675 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.33
+2026-08-07 00:04:09,675 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:04:09,680 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:10,221 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:04:10,222 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.73
+2026-08-07 00:04:10,222 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.68
+2026-08-07 00:04:10,223 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:04:10,230 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:04:10,835 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:04:10,836 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:04:10,836 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.48
+2026-08-07 00:04:10,837 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.42
+2026-08-07 00:04:10,845 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:04:11,399 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:04:11,399 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:04:11,399 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:04:11,404 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike']
+2026-08-07 00:04:11,987 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:04:11,988 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:04:11,988 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.59
+2026-08-07 00:04:11,988 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:04:11,988 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:04:11,993 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:04:12,570 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.84
+2026-08-07 00:04:12,571 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.50
+2026-08-07 00:04:12,571 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:04:12,571 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:04:12,576 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:04:13,163 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:04:13,165 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.63
+2026-08-07 00:04:13,165 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:04:13,166 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.35
+2026-08-07 00:04:13,172 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:04:13,734 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.75
+2026-08-07 00:04:13,735 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:04:13,735 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.49
+2026-08-07 00:04:13,736 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.30
+2026-08-07 00:04:13,744 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:14,296 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.64
+2026-08-07 00:04:14,296 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.49
+2026-08-07 00:04:14,297 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:04:14,303 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:14,905 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:04:14,905 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.42
+2026-08-07 00:04:14,906 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.37
+2026-08-07 00:04:14,913 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike']
+2026-08-07 00:04:15,651 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:04:15,652 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.40
+2026-08-07 00:04:15,661 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:04:16,270 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.46
+2026-08-07 00:04:16,270 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.40
+2026-08-07 00:04:16,271 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.38
+2026-08-07 00:04:16,271 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:04:16,280 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Car', 'Bike']
+2026-08-07 00:04:16,808 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:04:16,809 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.38
+2026-08-07 00:04:16,809 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.28
+2026-08-07 00:04:16,815 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Car']
+2026-08-07 00:04:17,600 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.61
+2026-08-07 00:04:17,601 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.41
+2026-08-07 00:04:17,602 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:04:17,611 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:18,332 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:04:18,332 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:04:18,333 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.25
+2026-08-07 00:04:18,342 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike']
+2026-08-07 00:04:18,900 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:04:18,900 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:04:18,908 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike']
+2026-08-07 00:04:19,495 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:04:19,502 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:04:20,066 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.48
+2026-08-07 00:04:20,066 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:04:20,074 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike']
+2026-08-07 00:04:20,656 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.43
+2026-08-07 00:04:20,664 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:04:21,306 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.26
+2026-08-07 00:04:21,314 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:04:21,906 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:04:21,914 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike']
+2026-08-07 00:04:22,557 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.47
+2026-08-07 00:04:22,565 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:04:23,156 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:04:23,156 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.61
+2026-08-07 00:04:23,157 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:04:23,165 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:23,757 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:04:23,757 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.62
+2026-08-07 00:04:23,758 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.58
+2026-08-07 00:04:23,765 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:24,319 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.54
+2026-08-07 00:04:24,320 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.50
+2026-08-07 00:04:24,328 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:04:24,971 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:04:24,972 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:04:24,972 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.71
+2026-08-07 00:04:24,980 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:04:25,570 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.33
+2026-08-07 00:04:25,579 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:04:26,101 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.48
+2026-08-07 00:04:26,108 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:04:26,521 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:04:26,528 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:04:26,921 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:04:26,921 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:04:26,928 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike']
+2026-08-07 00:04:27,309 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:04:27,309 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.56
+2026-08-07 00:04:27,315 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:04:27,683 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:04:27,684 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:04:27,684 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.57
+2026-08-07 00:04:27,690 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:04:28,056 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.73
+2026-08-07 00:04:28,057 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:04:28,063 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:04:28,434 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.65
+2026-08-07 00:04:28,434 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.52
+2026-08-07 00:04:28,434 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:04:28,438 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:28,810 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:28,811 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.78
+2026-08-07 00:04:28,811 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:04:28,816 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:04:29,201 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:04:29,202 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.65
+2026-08-07 00:04:29,202 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.54
+2026-08-07 00:04:29,208 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:04:29,584 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.69
+2026-08-07 00:04:29,584 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:04:29,585 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.40
+2026-08-07 00:04:29,590 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:04:29,986 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:04:29,986 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.41
+2026-08-07 00:04:29,987 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.33
+2026-08-07 00:04:29,992 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:04:30,381 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.62
+2026-08-07 00:04:30,382 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.32
+2026-08-07 00:04:30,385 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:04:30,797 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:04:30,797 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.35
+2026-08-07 00:04:30,804 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:04:31,177 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.52
+2026-08-07 00:04:31,177 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:04:31,178 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.45
+2026-08-07 00:04:31,181 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike']
+2026-08-07 00:04:31,564 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:04:31,564 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:04:31,569 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike']
+2026-08-07 00:04:31,961 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:04:31,966 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike']
+2026-08-07 00:04:32,355 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:04:32,355 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.51
+2026-08-07 00:04:32,355 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.37
+2026-08-07 00:04:32,359 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:04:32,737 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.66
+2026-08-07 00:04:32,737 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:04:32,741 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike']
+2026-08-07 00:04:33,127 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.47
+2026-08-07 00:04:33,127 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.41
+2026-08-07 00:04:33,127 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.29
+2026-08-07 00:04:33,134 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:04:33,858 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.68
+2026-08-07 00:04:33,858 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.40
+2026-08-07 00:04:33,864 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:04:34,549 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.50
+2026-08-07 00:04:34,550 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.29
+2026-08-07 00:04:34,557 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:04:35,276 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:04:35,277 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.44
+2026-08-07 00:04:35,277 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:04:35,278 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:04:35,285 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:04:36,018 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.86
+2026-08-07 00:04:36,019 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.52
+2026-08-07 00:04:36,019 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.51
+2026-08-07 00:04:36,019 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.37
+2026-08-07 00:04:36,020 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.33
+2026-08-07 00:04:36,027 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:36,744 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.89
+2026-08-07 00:04:36,744 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.67
+2026-08-07 00:04:36,745 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.57
+2026-08-07 00:04:36,745 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:04:36,752 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:37,454 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.87
+2026-08-07 00:04:37,455 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:04:37,455 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.55
+2026-08-07 00:04:37,455 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.53
+2026-08-07 00:04:37,456 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:04:37,463 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:38,193 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:38,194 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:04:38,194 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:04:38,195 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.47
+2026-08-07 00:04:38,202 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:04:38,917 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.74
+2026-08-07 00:04:38,917 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.69
+2026-08-07 00:04:38,918 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:04:38,918 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.51
+2026-08-07 00:04:38,926 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:04:39,631 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:04:39,632 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.66
+2026-08-07 00:04:39,632 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.62
+2026-08-07 00:04:39,633 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:04:39,640 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:40,352 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:40,352 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:04:40,353 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.44
+2026-08-07 00:04:40,353 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:04:40,360 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:41,054 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:41,055 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:04:41,055 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.48
+2026-08-07 00:04:41,056 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:04:41,056 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.31
+2026-08-07 00:04:41,056 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:04:41,064 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:04:41,725 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:04:41,726 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:04:41,726 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.49
+2026-08-07 00:04:41,733 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:04:42,436 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.87
+2026-08-07 00:04:42,437 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.74
+2026-08-07 00:04:42,444 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike']
+2026-08-07 00:04:43,151 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.78
+2026-08-07 00:04:43,151 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.62
+2026-08-07 00:04:43,151 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:04:43,152 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.30
+2026-08-07 00:04:43,159 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:43,882 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:04:43,883 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.69
+2026-08-07 00:04:43,883 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:04:43,883 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.51
+2026-08-07 00:04:43,884 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.50
+2026-08-07 00:04:43,884 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.46
+2026-08-07 00:04:43,884 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:04:43,891 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:44,584 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:04:44,584 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:04:44,585 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:04:44,585 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.25
+2026-08-07 00:04:44,592 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:45,312 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.80
+2026-08-07 00:04:45,313 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:04:45,313 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:04:45,314 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.40
+2026-08-07 00:04:45,314 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.25
+2026-08-07 00:04:45,322 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:46,006 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.84
+2026-08-07 00:04:46,007 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.55
+2026-08-07 00:04:46,008 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:04:46,017 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike']
+2026-08-07 00:04:46,699 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.89
+2026-08-07 00:04:46,699 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.55
+2026-08-07 00:04:46,700 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.38
+2026-08-07 00:04:46,700 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.37
+2026-08-07 00:04:46,700 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.30
+2026-08-07 00:04:46,701 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:04:46,708 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:47,434 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:47,435 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:04:47,435 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:04:47,435 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.56
+2026-08-07 00:04:47,436 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.31
+2026-08-07 00:04:47,443 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:48,145 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:48,145 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:04:48,146 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.60
+2026-08-07 00:04:48,146 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:04:48,147 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:04:48,154 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:04:48,829 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.87
+2026-08-07 00:04:48,830 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.50
+2026-08-07 00:04:48,830 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.49
+2026-08-07 00:04:48,831 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.42
+2026-08-07 00:04:48,838 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:49,543 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:49,544 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.63
+2026-08-07 00:04:49,544 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.57
+2026-08-07 00:04:49,545 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:04:49,545 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.30
+2026-08-07 00:04:49,552 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:04:50,254 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.87
+2026-08-07 00:04:50,255 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:50,255 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.59
+2026-08-07 00:04:50,256 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:04:50,256 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.51
+2026-08-07 00:04:50,257 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:04:50,257 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.41
+2026-08-07 00:04:50,258 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.35
+2026-08-07 00:04:50,258 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:04:50,265 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:50,944 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:50,945 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.64
+2026-08-07 00:04:50,945 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.59
+2026-08-07 00:04:50,945 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.58
+2026-08-07 00:04:50,946 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.46
+2026-08-07 00:04:50,946 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:04:50,947 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.33
+2026-08-07 00:04:50,947 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.30
+2026-08-07 00:04:50,947 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.27
+2026-08-07 00:04:50,955 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Car']
+2026-08-07 00:04:51,657 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:04:51,657 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:04:51,657 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.62
+2026-08-07 00:04:51,658 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.48
+2026-08-07 00:04:51,658 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:04:51,666 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:52,378 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.40
+2026-08-07 00:04:52,379 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.30
+2026-08-07 00:04:52,380 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.26
+2026-08-07 00:04:52,387 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Car']
+2026-08-07 00:04:53,071 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:53,072 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.48
+2026-08-07 00:04:53,072 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.48
+2026-08-07 00:04:53,073 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.48
+2026-08-07 00:04:53,073 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.41
+2026-08-07 00:04:53,073 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.39
+2026-08-07 00:04:53,074 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:04:53,074 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:04:53,082 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:53,771 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:04:53,771 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.64
+2026-08-07 00:04:53,772 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.56
+2026-08-07 00:04:53,772 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.46
+2026-08-07 00:04:53,772 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:04:53,780 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:04:54,503 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:04:54,503 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:04:54,504 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:04:54,504 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.46
+2026-08-07 00:04:54,505 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:04:54,512 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Car', 'Bike']
+2026-08-07 00:04:55,224 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:04:55,224 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.48
+2026-08-07 00:04:55,224 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.46
+2026-08-07 00:04:55,226 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:04:55,226 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:04:55,226 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:04:55,227 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:04:55,234 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:55,936 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:04:55,937 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.65
+2026-08-07 00:04:55,937 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.63
+2026-08-07 00:04:55,938 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.46
+2026-08-07 00:04:55,938 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.46
+2026-08-07 00:04:55,938 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.45
+2026-08-07 00:04:55,939 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:04:55,939 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.31
+2026-08-07 00:04:55,946 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:04:56,663 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:04:56,663 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.78
+2026-08-07 00:04:56,664 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.78
+2026-08-07 00:04:56,664 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.59
+2026-08-07 00:04:56,665 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.46
+2026-08-07 00:04:56,665 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.45
+2026-08-07 00:04:56,665 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.38
+2026-08-07 00:04:56,666 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.33
+2026-08-07 00:04:56,666 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:04:56,673 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:57,369 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.86
+2026-08-07 00:04:57,370 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:04:57,370 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:04:57,371 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.79
+2026-08-07 00:04:57,371 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.33
+2026-08-07 00:04:57,371 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:04:57,372 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:04:57,379 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:58,086 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.86
+2026-08-07 00:04:58,086 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:04:58,087 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:04:58,087 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:04:58,087 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.68
+2026-08-07 00:04:58,088 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:04:58,088 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:04:58,096 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:04:58,820 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.84
+2026-08-07 00:04:58,821 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.64
+2026-08-07 00:04:58,821 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.64
+2026-08-07 00:04:58,823 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.59
+2026-08-07 00:04:58,823 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.41
+2026-08-07 00:04:58,823 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:04:58,830 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:04:59,315 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.86
+2026-08-07 00:04:59,316 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.69
+2026-08-07 00:04:59,316 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.65
+2026-08-07 00:04:59,316 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.64
+2026-08-07 00:04:59,316 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.58
+2026-08-07 00:04:59,317 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:04:59,317 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:04:59,317 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.30
+2026-08-07 00:04:59,321 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:04:59,694 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.84
+2026-08-07 00:04:59,694 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:04:59,695 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.82
+2026-08-07 00:04:59,695 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.77
+2026-08-07 00:04:59,695 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.75
+2026-08-07 00:04:59,696 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.68
+2026-08-07 00:04:59,696 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:04:59,696 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.53
+2026-08-07 00:04:59,697 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:04:59,697 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.25
+2026-08-07 00:04:59,704 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:05:00,123 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.86
+2026-08-07 00:05:00,124 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.85
+2026-08-07 00:05:00,124 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:05:00,124 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:05:00,124 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.73
+2026-08-07 00:05:00,124 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:05:00,125 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:05:00,125 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:05:00,130 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:05:00,513 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.89
+2026-08-07 00:05:00,514 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.83
+2026-08-07 00:05:00,514 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:05:00,514 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:05:00,515 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.76
+2026-08-07 00:05:00,515 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:05:00,515 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:05:00,516 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:05:00,516 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.33
+2026-08-07 00:05:00,516 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.31
+2026-08-07 00:05:00,516 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.29
+2026-08-07 00:05:00,523 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:05:00,902 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.86
+2026-08-07 00:05:00,903 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.84
+2026-08-07 00:05:00,903 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.81
+2026-08-07 00:05:00,904 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.74
+2026-08-07 00:05:00,904 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.73
+2026-08-07 00:05:00,904 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:05:00,905 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.45
+2026-08-07 00:05:00,905 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.32
+2026-08-07 00:05:00,905 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:05:00,905 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:05:00,911 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:05:01,274 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.89
+2026-08-07 00:05:01,274 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.84
+2026-08-07 00:05:01,275 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:05:01,275 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.78
+2026-08-07 00:05:01,275 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:05:01,276 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.66
+2026-08-07 00:05:01,276 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:05:01,276 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.40
+2026-08-07 00:05:01,276 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.31
+2026-08-07 00:05:01,277 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.28
+2026-08-07 00:05:01,280 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:05:01,658 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.90
+2026-08-07 00:05:01,658 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.87
+2026-08-07 00:05:01,659 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.80
+2026-08-07 00:05:01,659 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.74
+2026-08-07 00:05:01,659 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.71
+2026-08-07 00:05:01,660 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.58
+2026-08-07 00:05:01,660 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:05:01,660 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:05:01,661 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:05:01,661 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.25
+2026-08-07 00:05:01,665 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:05:02,045 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.88
+2026-08-07 00:05:02,046 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.82
+2026-08-07 00:05:02,046 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:05:02,046 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.74
+2026-08-07 00:05:02,047 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.51
+2026-08-07 00:05:02,047 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.50
+2026-08-07 00:05:02,047 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.47
+2026-08-07 00:05:02,048 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.46
+2026-08-07 00:05:02,048 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.31
+2026-08-07 00:05:02,055 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:05:02,440 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.90
+2026-08-07 00:05:02,441 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.80
+2026-08-07 00:05:02,441 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.74
+2026-08-07 00:05:02,442 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.67
+2026-08-07 00:05:02,442 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.63
+2026-08-07 00:05:02,442 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.45
+2026-08-07 00:05:02,442 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.45
+2026-08-07 00:05:02,443 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.30
+2026-08-07 00:05:02,443 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:05:02,450 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:05:02,851 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.87
+2026-08-07 00:05:02,851 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.79
+2026-08-07 00:05:02,852 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:05:02,852 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.68
+2026-08-07 00:05:02,852 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.63
+2026-08-07 00:05:02,852 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:05:02,853 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.51
+2026-08-07 00:05:02,853 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.37
+2026-08-07 00:05:02,853 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.32
+2026-08-07 00:05:02,853 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:05:02,860 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:05:03,253 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.89
+2026-08-07 00:05:03,253 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.83
+2026-08-07 00:05:03,253 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:05:03,253 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:05:03,254 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:05:03,254 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:05:03,254 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.39
+2026-08-07 00:05:03,255 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:05:03,255 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:05:03,262 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Car', 'Bike']
+2026-08-07 00:05:03,669 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.89
+2026-08-07 00:05:03,670 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.84
+2026-08-07 00:05:03,670 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:05:03,670 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:05:03,671 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.68
+2026-08-07 00:05:03,671 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:05:03,671 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.54
+2026-08-07 00:05:03,671 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:05:03,677 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:05:04,049 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.91
+2026-08-07 00:05:04,049 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.90
+2026-08-07 00:05:04,049 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:05:04,050 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.80
+2026-08-07 00:05:04,050 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.58
+2026-08-07 00:05:04,050 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:05:04,050 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.42
+2026-08-07 00:05:04,051 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.32
+2026-08-07 00:05:04,051 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.31
+2026-08-07 00:05:04,058 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:05:04,460 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.92
+2026-08-07 00:05:04,461 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.90
+2026-08-07 00:05:04,461 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:05:04,461 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.78
+2026-08-07 00:05:04,461 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.53
+2026-08-07 00:05:04,462 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:05:04,462 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.50
+2026-08-07 00:05:04,470 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:05:04,882 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.92
+2026-08-07 00:05:04,882 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.89
+2026-08-07 00:05:04,883 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:05:04,883 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.80
+2026-08-07 00:05:04,883 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.42
+2026-08-07 00:05:04,884 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.39
+2026-08-07 00:05:04,884 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:05:04,885 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.25
+2026-08-07 00:05:04,892 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:05:05,286 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.93
+2026-08-07 00:05:05,287 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.88
+2026-08-07 00:05:05,287 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:05:05,287 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.80
+2026-08-07 00:05:05,287 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.65
+2026-08-07 00:05:05,288 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:05:05,288 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:05:05,295 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:05:05,845 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.94
+2026-08-07 00:05:05,846 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.88
+2026-08-07 00:05:05,846 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.75
+2026-08-07 00:05:05,846 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.63
+2026-08-07 00:05:05,847 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.61
+2026-08-07 00:05:05,847 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.58
+2026-08-07 00:05:05,848 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.39
+2026-08-07 00:05:05,848 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.30
+2026-08-07 00:05:05,855 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:05:06,555 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.90
+2026-08-07 00:05:06,556 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.86
+2026-08-07 00:05:06,556 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:05:06,556 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:05:06,556 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.68
+2026-08-07 00:05:06,557 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.66
+2026-08-07 00:05:06,557 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.50
+2026-08-07 00:05:06,557 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.34
+2026-08-07 00:05:06,565 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:05:07,238 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.90
+2026-08-07 00:05:07,238 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.90
+2026-08-07 00:05:07,239 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.78
+2026-08-07 00:05:07,239 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:05:07,240 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:05:07,240 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.50
+2026-08-07 00:05:07,240 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.44
+2026-08-07 00:05:07,241 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:05:07,241 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:05:07,248 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike', 'Bike', 'Bike', 'Car', 'Car', 'Bike', 'Bike']
+2026-08-07 00:07:14,628 | DETECTION_SUBSCRIBER | INFO | RabbitMQ Connected Successfully
+2026-08-07 00:07:14,932 | DETECTION_SUBSCRIBER | INFO | YOLOv7 Loaded Successfully on cpu
+2026-08-07 00:07:14,933 | DETECTION_SUBSCRIBER | INFO | Classes: ['Person', 'Bike', 'Car', 'Helmet', 'Jacket', 'Fire', 'Smoke']
+2026-08-07 00:07:14,956 | DETECTION_SUBSCRIBER | INFO | Waiting for frames from c1, c2, c3, c4...
+2026-08-07 00:07:15,447 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:07:15,448 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.63
+2026-08-07 00:07:15,448 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:07:15,448 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:07:15,479 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:07:15,980 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:07:15,982 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:07:15,985 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.44
+2026-08-07 00:07:16,003 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:07:16,017 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:07:16,400 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:07:16,400 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:07:16,400 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.54
+2026-08-07 00:07:16,400 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.49
+2026-08-07 00:07:16,406 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:07:16,814 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:07:16,814 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.52
+2026-08-07 00:07:16,814 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:07:16,818 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:07:17,224 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.81
+2026-08-07 00:07:17,225 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.43
+2026-08-07 00:07:17,225 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:07:17,231 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:07:17,621 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:07:17,622 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:07:17,627 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike']
+2026-08-07 00:07:18,004 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:07:18,004 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.43
+2026-08-07 00:07:18,004 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.33
+2026-08-07 00:07:18,009 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:07:18,397 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.47
+2026-08-07 00:07:18,397 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.46
+2026-08-07 00:07:18,398 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.37
+2026-08-07 00:07:18,403 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:07:18,771 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:07:18,771 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:07:18,772 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:07:18,778 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:07:19,165 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.80
+2026-08-07 00:07:19,166 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.42
+2026-08-07 00:07:19,166 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.40
+2026-08-07 00:07:19,171 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:07:19,553 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:07:19,553 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.59
+2026-08-07 00:07:19,553 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.59
+2026-08-07 00:07:19,554 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.33
+2026-08-07 00:07:19,554 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:07:19,560 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:07:19,939 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:07:19,939 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.73
+2026-08-07 00:07:19,940 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.68
+2026-08-07 00:07:19,940 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:07:19,945 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:07:20,330 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:07:20,330 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:07:20,331 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.48
+2026-08-07 00:07:20,331 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.42
+2026-08-07 00:07:20,336 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:07:20,863 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:07:20,863 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:07:20,863 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:07:20,867 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike']
+2026-08-07 00:07:21,267 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:07:21,267 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:07:21,267 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.59
+2026-08-07 00:07:21,268 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:07:21,268 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.32
+2026-08-07 00:07:21,275 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:07:21,652 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.84
+2026-08-07 00:07:21,652 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.50
+2026-08-07 00:07:21,653 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.27
+2026-08-07 00:07:21,653 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:07:21,657 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:07:22,038 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:07:22,038 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.63
+2026-08-07 00:07:22,038 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:07:22,038 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.35
+2026-08-07 00:07:22,043 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:07:22,458 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.75
+2026-08-07 00:07:22,459 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:07:22,459 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.49
+2026-08-07 00:07:22,459 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.30
+2026-08-07 00:07:22,465 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:07:22,872 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.64
+2026-08-07 00:07:22,872 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.49
+2026-08-07 00:07:22,872 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:07:22,877 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:07:23,263 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:07:23,264 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.42
+2026-08-07 00:07:23,264 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.37
+2026-08-07 00:07:23,271 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike']
+2026-08-07 00:07:23,641 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.57
+2026-08-07 00:07:23,642 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.40
+2026-08-07 00:07:23,647 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:07:24,020 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.46
+2026-08-07 00:07:24,020 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.40
+2026-08-07 00:07:24,020 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.38
+2026-08-07 00:07:24,021 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:07:24,028 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Car', 'Bike']
+2026-08-07 00:07:24,426 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:07:24,426 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.38
+2026-08-07 00:07:24,426 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.28
+2026-08-07 00:07:24,429 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Car']
+2026-08-07 00:07:24,806 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.61
+2026-08-07 00:07:24,807 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.41
+2026-08-07 00:07:24,807 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.26
+2026-08-07 00:07:24,814 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:07:25,193 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.86
+2026-08-07 00:07:25,197 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:25,600 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:07:25,605 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:25,994 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.83
+2026-08-07 00:07:26,001 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:26,391 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:07:26,396 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:26,786 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:07:26,793 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:27,173 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.84
+2026-08-07 00:07:27,178 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:27,575 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.88
+2026-08-07 00:07:27,580 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:27,963 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.88
+2026-08-07 00:07:27,970 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:28,382 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.87
+2026-08-07 00:07:28,388 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:28,809 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.88
+2026-08-07 00:07:28,817 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:29,225 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.88
+2026-08-07 00:07:29,232 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:29,630 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.87
+2026-08-07 00:07:29,636 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:30,025 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:07:30,033 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:30,409 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.89
+2026-08-07 00:07:30,415 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:30,810 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:07:30,816 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:31,201 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.86
+2026-08-07 00:07:31,205 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:31,604 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.82
+2026-08-07 00:07:31,612 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:31,998 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:07:32,003 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:32,416 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.81
+2026-08-07 00:07:32,420 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:32,841 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.86
+2026-08-07 00:07:32,848 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:33,245 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.65
+2026-08-07 00:07:33,251 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:33,647 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.75
+2026-08-07 00:07:33,653 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:34,047 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.82
+2026-08-07 00:07:34,053 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:34,436 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.87
+2026-08-07 00:07:34,441 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:34,839 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.89
+2026-08-07 00:07:34,839 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:07:34,840 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.35
+2026-08-07 00:07:34,845 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:35,242 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.83
+2026-08-07 00:07:35,242 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:07:35,242 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.40
+2026-08-07 00:07:35,249 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:35,637 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.86
+2026-08-07 00:07:35,637 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.60
+2026-08-07 00:07:35,637 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.47
+2026-08-07 00:07:35,642 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:36,020 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.88
+2026-08-07 00:07:36,021 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.61
+2026-08-07 00:07:36,021 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.44
+2026-08-07 00:07:36,024 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:36,410 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.88
+2026-08-07 00:07:36,410 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.62
+2026-08-07 00:07:36,410 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.41
+2026-08-07 00:07:36,414 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:36,808 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.83
+2026-08-07 00:07:36,809 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.63
+2026-08-07 00:07:36,810 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.42
+2026-08-07 00:07:36,816 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:37,193 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.83
+2026-08-07 00:07:37,193 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.63
+2026-08-07 00:07:37,193 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.44
+2026-08-07 00:07:37,196 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:37,591 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.69
+2026-08-07 00:07:37,592 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.69
+2026-08-07 00:07:37,592 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.68
+2026-08-07 00:07:37,598 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke', 'Fire']
+2026-08-07 00:07:37,982 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:07:37,982 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.65
+2026-08-07 00:07:37,982 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.54
+2026-08-07 00:07:37,986 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke', 'Fire']
+2026-08-07 00:07:38,366 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:07:38,367 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.63
+2026-08-07 00:07:38,367 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.55
+2026-08-07 00:07:38,371 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke', 'Fire']
+2026-08-07 00:07:38,765 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.70
+2026-08-07 00:07:38,766 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:07:38,766 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.61
+2026-08-07 00:07:38,772 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Smoke', 'Fire', 'Fire']
+2026-08-07 00:07:39,157 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.77
+2026-08-07 00:07:39,157 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.65
+2026-08-07 00:07:39,163 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Smoke', 'Fire']
+2026-08-07 00:07:39,555 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.75
+2026-08-07 00:07:39,555 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:07:39,556 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.33
+2026-08-07 00:07:39,561 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Smoke', 'Fire', 'Fire']
+2026-08-07 00:07:39,974 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.70
+2026-08-07 00:07:39,974 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:07:39,975 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.52
+2026-08-07 00:07:39,981 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Smoke', 'Fire', 'Fire']
+2026-08-07 00:07:40,369 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.70
+2026-08-07 00:07:40,369 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:07:40,370 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.53
+2026-08-07 00:07:40,376 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Smoke', 'Fire', 'Fire']
+2026-08-07 00:07:40,772 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.60
+2026-08-07 00:07:40,778 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.60
+2026-08-07 00:07:40,779 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.50
+2026-08-07 00:07:40,788 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:41,179 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.59
+2026-08-07 00:07:41,180 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.41
+2026-08-07 00:07:41,183 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke']
+2026-08-07 00:07:41,598 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.60
+2026-08-07 00:07:41,599 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.58
+2026-08-07 00:07:41,605 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Smoke', 'Fire']
+2026-08-07 00:07:42,038 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.57
+2026-08-07 00:07:42,038 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.54
+2026-08-07 00:07:42,045 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke']
+2026-08-07 00:07:42,450 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.59
+2026-08-07 00:07:42,450 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.54
+2026-08-07 00:07:42,455 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke']
+2026-08-07 00:07:42,857 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:07:42,859 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.49
+2026-08-07 00:07:42,868 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke']
+2026-08-07 00:07:43,259 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:07:43,260 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.42
+2026-08-07 00:07:43,263 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke']
+2026-08-07 00:07:43,673 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:07:43,674 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.38
+2026-08-07 00:07:43,680 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke']
+2026-08-07 00:07:44,092 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.63
+2026-08-07 00:07:44,092 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.40
+2026-08-07 00:07:44,092 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.39
+2026-08-07 00:07:44,099 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke', 'Fire']
+2026-08-07 00:07:44,480 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.63
+2026-08-07 00:07:44,480 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.40
+2026-08-07 00:07:44,481 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.39
+2026-08-07 00:07:44,486 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:45,285 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.45
+2026-08-07 00:07:45,290 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person']
+2026-08-07 00:07:45,674 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.58
+2026-08-07 00:07:45,674 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.47
+2026-08-07 00:07:45,678 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person']
+2026-08-07 00:07:46,107 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:07:46,108 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.72
+2026-08-07 00:07:46,108 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.53
+2026-08-07 00:07:46,109 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.28
+2026-08-07 00:07:46,115 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:46,535 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:07:46,535 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.61
+2026-08-07 00:07:46,536 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.41
+2026-08-07 00:07:46,536 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.35
+2026-08-07 00:07:46,542 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:46,936 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:07:46,937 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.60
+2026-08-07 00:07:46,937 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.47
+2026-08-07 00:07:46,941 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:07:47,349 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.76
+2026-08-07 00:07:47,349 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.68
+2026-08-07 00:07:47,350 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.55
+2026-08-07 00:07:47,350 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.32
+2026-08-07 00:07:47,356 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:47,744 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:07:47,744 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.76
+2026-08-07 00:07:47,744 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.54
+2026-08-07 00:07:47,745 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.45
+2026-08-07 00:07:47,750 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:48,156 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.74
+2026-08-07 00:07:48,156 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.73
+2026-08-07 00:07:48,157 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.38
+2026-08-07 00:07:48,157 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.32
+2026-08-07 00:07:48,162 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:48,562 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:07:48,563 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.78
+2026-08-07 00:07:48,563 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.56
+2026-08-07 00:07:48,564 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.56
+2026-08-07 00:07:48,568 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:48,954 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.78
+2026-08-07 00:07:48,954 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.72
+2026-08-07 00:07:48,954 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.56
+2026-08-07 00:07:48,954 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.43
+2026-08-07 00:07:48,958 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:49,355 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:07:49,356 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:49,356 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:07:49,356 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.38
+2026-08-07 00:07:49,363 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:49,748 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:07:49,748 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:07:49,749 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.52
+2026-08-07 00:07:49,749 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.27
+2026-08-07 00:07:49,753 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:50,148 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:50,149 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:50,149 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.55
+2026-08-07 00:07:50,149 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.36
+2026-08-07 00:07:50,153 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:50,536 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:07:50,536 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:50,537 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.63
+2026-08-07 00:07:50,537 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.26
+2026-08-07 00:07:50,537 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.26
+2026-08-07 00:07:50,542 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:50,935 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.76
+2026-08-07 00:07:50,935 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.73
+2026-08-07 00:07:50,935 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.64
+2026-08-07 00:07:50,940 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:07:51,344 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:51,344 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.75
+2026-08-07 00:07:51,344 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.61
+2026-08-07 00:07:51,344 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.28
+2026-08-07 00:07:51,349 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:51,739 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:51,739 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.73
+2026-08-07 00:07:51,740 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.68
+2026-08-07 00:07:51,746 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:07:52,131 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:07:52,131 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.70
+2026-08-07 00:07:52,132 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.70
+2026-08-07 00:07:52,132 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.26
+2026-08-07 00:07:52,136 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:52,533 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:07:52,533 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:07:52,533 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.70
+2026-08-07 00:07:52,534 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:07:52,538 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:52,935 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:07:52,936 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:07:52,936 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.71
+2026-08-07 00:07:52,936 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.50
+2026-08-07 00:07:52,936 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.31
+2026-08-07 00:07:52,940 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:53,338 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.78
+2026-08-07 00:07:53,339 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:53,339 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.70
+2026-08-07 00:07:53,339 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.34
+2026-08-07 00:07:53,340 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.33
+2026-08-07 00:07:53,345 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:53,751 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:07:53,752 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.76
+2026-08-07 00:07:53,752 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.69
+2026-08-07 00:07:53,752 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.27
+2026-08-07 00:07:53,760 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:54,186 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:07:54,186 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.78
+2026-08-07 00:07:54,186 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.66
+2026-08-07 00:07:54,191 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:07:54,595 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:07:54,596 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:54,596 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.68
+2026-08-07 00:07:54,596 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.38
+2026-08-07 00:07:54,600 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:54,994 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:07:54,995 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:07:54,995 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.25
+2026-08-07 00:07:54,998 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike']
+2026-08-07 00:07:55,395 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.84
+2026-08-07 00:07:55,399 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:55,802 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.67
+2026-08-07 00:07:55,803 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.62
+2026-08-07 00:07:55,803 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.30
+2026-08-07 00:07:55,809 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:07:56,208 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:07:56,208 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:07:56,208 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.70
+2026-08-07 00:07:56,209 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.36
+2026-08-07 00:07:56,215 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:56,625 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.56
+2026-08-07 00:07:56,625 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:07:56,632 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike']
+2026-08-07 00:07:57,026 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.84
+2026-08-07 00:07:57,030 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:57,446 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.78
+2026-08-07 00:07:57,447 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.62
+2026-08-07 00:07:57,451 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:07:57,855 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:07:57,855 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:07:57,855 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.69
+2026-08-07 00:07:57,856 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.33
+2026-08-07 00:07:57,856 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.29
+2026-08-07 00:07:57,863 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:58,272 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.36
+2026-08-07 00:07:58,277 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:07:58,683 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.80
+2026-08-07 00:07:58,688 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:07:59,087 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.78
+2026-08-07 00:07:59,087 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.56
+2026-08-07 00:07:59,088 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.28
+2026-08-07 00:07:59,092 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Fire']
+2026-08-07 00:07:59,524 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:07:59,524 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:07:59,524 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.66
+2026-08-07 00:07:59,525 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.35
+2026-08-07 00:07:59,531 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:07:59,965 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.48
+2026-08-07 00:07:59,966 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:07:59,973 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike']
+2026-08-07 00:08:00,370 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.83
+2026-08-07 00:08:00,377 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:00,789 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.82
+2026-08-07 00:08:00,789 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.62
+2026-08-07 00:08:00,795 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:01,193 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:08:01,194 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:08:01,194 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.53
+2026-08-07 00:08:01,194 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.29
+2026-08-07 00:08:01,201 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:01,603 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.43
+2026-08-07 00:08:01,608 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:08:02,007 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:08:02,014 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:02,403 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.84
+2026-08-07 00:08:02,404 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.62
+2026-08-07 00:08:02,410 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:02,807 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:08:02,807 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:08:02,807 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.53
+2026-08-07 00:08:02,814 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:03,202 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.26
+2026-08-07 00:08:03,207 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:08:03,603 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:08:03,607 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:04,012 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.81
+2026-08-07 00:08:04,012 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.65
+2026-08-07 00:08:04,019 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:04,407 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:08:04,407 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:08:04,408 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.53
+2026-08-07 00:08:04,408 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.31
+2026-08-07 00:08:04,416 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:04,810 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:08:04,817 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike']
+2026-08-07 00:08:05,208 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.86
+2026-08-07 00:08:05,215 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:05,613 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.86
+2026-08-07 00:08:05,613 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.59
+2026-08-07 00:08:05,618 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:06,018 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:08:06,018 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:08:06,018 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.66
+2026-08-07 00:08:06,018 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.25
+2026-08-07 00:08:06,023 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:06,422 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.47
+2026-08-07 00:08:06,428 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:08:06,827 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.76
+2026-08-07 00:08:06,832 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:07,230 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.84
+2026-08-07 00:08:07,230 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.47
+2026-08-07 00:08:07,236 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:07,644 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:08:07,644 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:08:07,645 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.70
+2026-08-07 00:08:07,652 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:08,046 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.77
+2026-08-07 00:08:08,050 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:08,443 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:08:08,443 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.61
+2026-08-07 00:08:08,444 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:08:08,449 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:08:08,847 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.86
+2026-08-07 00:08:08,847 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.61
+2026-08-07 00:08:08,851 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:09,247 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:08:09,248 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:08:09,248 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.61
+2026-08-07 00:08:09,255 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:09,683 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.80
+2026-08-07 00:08:09,690 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:10,124 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.71
+2026-08-07 00:08:10,124 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.62
+2026-08-07 00:08:10,124 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.58
+2026-08-07 00:08:10,132 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:08:10,551 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.87
+2026-08-07 00:08:10,551 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.61
+2026-08-07 00:08:10,557 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:10,958 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:08:10,959 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.78
+2026-08-07 00:08:10,959 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.54
+2026-08-07 00:08:10,967 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:11,373 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.54
+2026-08-07 00:08:11,374 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.50
+2026-08-07 00:08:11,378 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:08:11,782 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.83
+2026-08-07 00:08:11,786 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:12,176 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.85
+2026-08-07 00:08:12,176 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.62
+2026-08-07 00:08:12,180 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:12,586 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:08:12,586 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:08:12,587 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.59
+2026-08-07 00:08:12,594 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:13,004 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:08:13,005 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.76
+2026-08-07 00:08:13,005 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.71
+2026-08-07 00:08:13,012 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:08:13,405 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.79
+2026-08-07 00:08:13,409 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:13,801 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.86
+2026-08-07 00:08:13,802 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:08:13,806 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:14,205 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:08:14,206 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.78
+2026-08-07 00:08:14,206 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.51
+2026-08-07 00:08:14,211 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:14,646 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.77
+2026-08-07 00:08:14,653 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:15,088 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.33
+2026-08-07 00:08:15,096 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:08:15,496 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.75
+2026-08-07 00:08:15,497 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.67
+2026-08-07 00:08:15,497 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.30
+2026-08-07 00:08:15,501 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:08:15,950 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:08:15,950 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.77
+2026-08-07 00:08:15,951 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.50
+2026-08-07 00:08:15,969 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:16,383 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.48
+2026-08-07 00:08:16,390 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:08:16,801 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.82
+2026-08-07 00:08:16,810 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:17,214 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.87
+2026-08-07 00:08:17,214 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:08:17,215 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.34
+2026-08-07 00:08:17,218 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:08:17,621 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:08:17,621 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.75
+2026-08-07 00:08:17,622 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:08:17,622 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.37
+2026-08-07 00:08:17,629 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:18,045 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.85
+2026-08-07 00:08:18,053 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:18,452 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:08:18,456 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car']
+2026-08-07 00:08:18,867 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.87
+2026-08-07 00:08:18,867 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:08:18,867 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.41
+2026-08-07 00:08:18,872 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:08:19,281 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:08:19,281 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:08:19,281 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.62
+2026-08-07 00:08:19,282 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.36
+2026-08-07 00:08:19,282 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.28
+2026-08-07 00:08:19,288 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:19,682 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.82
+2026-08-07 00:08:19,688 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:20,094 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.45
+2026-08-07 00:08:20,094 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:08:20,098 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike']
+2026-08-07 00:08:20,543 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.91
+2026-08-07 00:08:20,544 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.64
+2026-08-07 00:08:20,544 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.29
+2026-08-07 00:08:20,549 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:08:20,993 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:08:20,994 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.79
+2026-08-07 00:08:20,994 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.57
+2026-08-07 00:08:20,994 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.35
+2026-08-07 00:08:20,995 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.33
+2026-08-07 00:08:21,003 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:21,426 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.66
+2026-08-07 00:08:21,433 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:21,845 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:08:21,845 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.56
+2026-08-07 00:08:21,852 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:08:22,247 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.78
+2026-08-07 00:08:22,247 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.59
+2026-08-07 00:08:22,252 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:22,662 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:08:22,663 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:08:22,663 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:08:22,663 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.40
+2026-08-07 00:08:22,664 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.34
+2026-08-07 00:08:22,670 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:23,082 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:08:23,082 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.70
+2026-08-07 00:08:23,083 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.57
+2026-08-07 00:08:23,086 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:08:23,492 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.41
+2026-08-07 00:08:23,496 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:23,908 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.71
+2026-08-07 00:08:23,908 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.55
+2026-08-07 00:08:23,909 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.37
+2026-08-07 00:08:23,915 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Fire']
+2026-08-07 00:08:24,324 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.86
+2026-08-07 00:08:24,324 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:08:24,325 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:08:24,325 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.37
+2026-08-07 00:08:24,332 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:24,764 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.73
+2026-08-07 00:08:24,765 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:08:24,772 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:08:25,218 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.63
+2026-08-07 00:08:25,224 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:25,642 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.72
+2026-08-07 00:08:25,642 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.67
+2026-08-07 00:08:25,643 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.58
+2026-08-07 00:08:25,646 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Fire']
+2026-08-07 00:08:26,059 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.87
+2026-08-07 00:08:26,059 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:08:26,060 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.45
+2026-08-07 00:08:26,060 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.37
+2026-08-07 00:08:26,068 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:26,467 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.71
+2026-08-07 00:08:26,471 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:26,886 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.65
+2026-08-07 00:08:26,886 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.52
+2026-08-07 00:08:26,886 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.44
+2026-08-07 00:08:26,893 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:08:27,322 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.72
+2026-08-07 00:08:27,322 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:08:27,322 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.56
+2026-08-07 00:08:27,326 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Fire']
+2026-08-07 00:08:27,734 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.87
+2026-08-07 00:08:27,734 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:08:27,735 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.62
+2026-08-07 00:08:27,735 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.48
+2026-08-07 00:08:27,743 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:28,154 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.53
+2026-08-07 00:08:28,161 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:28,688 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:08:28,689 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.78
+2026-08-07 00:08:28,689 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.55
+2026-08-07 00:08:28,696 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:08:29,142 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.74
+2026-08-07 00:08:29,142 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:08:29,143 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.31
+2026-08-07 00:08:29,143 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.25
+2026-08-07 00:08:29,150 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke', 'Fire']
+2026-08-07 00:08:29,566 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.86
+2026-08-07 00:08:29,566 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:08:29,567 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.69
+2026-08-07 00:08:29,567 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.58
+2026-08-07 00:08:29,567 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.44
+2026-08-07 00:08:29,575 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:29,995 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.82
+2026-08-07 00:08:29,996 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.65
+2026-08-07 00:08:29,996 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.54
+2026-08-07 00:08:30,003 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike']
+2026-08-07 00:08:30,437 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.71
+2026-08-07 00:08:30,444 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:30,859 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.71
+2026-08-07 00:08:30,860 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.53
+2026-08-07 00:08:30,860 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.28
+2026-08-07 00:08:30,860 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.26
+2026-08-07 00:08:30,867 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Fire', 'Smoke']
+2026-08-07 00:08:31,284 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.86
+2026-08-07 00:08:31,284 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.83
+2026-08-07 00:08:31,284 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.61
+2026-08-07 00:08:31,285 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.39
+2026-08-07 00:08:31,292 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:32,013 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.69
+2026-08-07 00:08:32,013 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:08:32,013 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.40
+2026-08-07 00:08:32,020 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:08:32,725 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.53
+2026-08-07 00:08:32,733 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:33,454 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.68
+2026-08-07 00:08:33,455 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.48
+2026-08-07 00:08:33,455 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.31
+2026-08-07 00:08:33,462 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:08:34,187 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.86
+2026-08-07 00:08:34,188 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:08:34,188 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.65
+2026-08-07 00:08:34,189 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.28
+2026-08-07 00:08:34,196 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:34,919 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.58
+2026-08-07 00:08:34,926 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:35,653 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.43
+2026-08-07 00:08:35,653 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.41
+2026-08-07 00:08:35,654 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.33
+2026-08-07 00:08:35,661 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:08:36,392 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.71
+2026-08-07 00:08:36,392 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.33
+2026-08-07 00:08:36,393 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.30
+2026-08-07 00:08:36,399 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:08:37,140 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:08:37,140 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:08:37,141 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.59
+2026-08-07 00:08:37,141 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.31
+2026-08-07 00:08:37,149 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:37,904 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.78
+2026-08-07 00:08:37,912 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:38,667 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.62
+2026-08-07 00:08:38,667 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.32
+2026-08-07 00:08:38,673 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:08:39,425 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.70
+2026-08-07 00:08:39,426 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.35
+2026-08-07 00:08:39,432 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:40,174 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:08:40,174 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.81
+2026-08-07 00:08:40,176 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.59
+2026-08-07 00:08:40,176 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:08:40,183 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:40,924 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.33
+2026-08-07 00:08:40,932 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:41,652 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.36
+2026-08-07 00:08:41,653 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.35
+2026-08-07 00:08:41,660 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:08:42,370 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.68
+2026-08-07 00:08:42,371 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.45
+2026-08-07 00:08:42,377 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:43,132 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.87
+2026-08-07 00:08:43,133 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:08:43,133 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.59
+2026-08-07 00:08:43,133 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:08:43,134 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.36
+2026-08-07 00:08:43,142 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:44,538 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.52
+2026-08-07 00:08:44,538 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.49
+2026-08-07 00:08:44,538 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.45
+2026-08-07 00:08:44,545 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike', 'Bike']
+2026-08-07 00:08:45,223 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:08:45,224 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.54
+2026-08-07 00:08:45,232 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire']
+2026-08-07 00:08:45,926 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.87
+2026-08-07 00:08:45,927 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:08:45,927 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.44
+2026-08-07 00:08:45,935 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:46,639 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.57
+2026-08-07 00:08:46,647 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:47,345 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.83
+2026-08-07 00:08:47,346 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:08:47,353 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike']
+2026-08-07 00:08:48,037 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:08:48,043 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire']
+2026-08-07 00:08:48,772 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.89
+2026-08-07 00:08:48,773 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:08:48,773 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.52
+2026-08-07 00:08:48,781 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:50,168 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:08:50,175 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike']
+2026-08-07 00:08:50,864 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.67
+2026-08-07 00:08:50,871 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire']
+2026-08-07 00:08:51,557 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.86
+2026-08-07 00:08:51,557 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.82
+2026-08-07 00:08:51,558 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.47
+2026-08-07 00:08:51,566 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person']
+2026-08-07 00:08:52,261 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.51
+2026-08-07 00:08:52,268 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:53,236 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.79
+2026-08-07 00:08:53,236 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.51
+2026-08-07 00:08:53,237 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.37
+2026-08-07 00:08:53,244 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:08:53,945 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.66
+2026-08-07 00:08:53,952 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire']
+2026-08-07 00:08:54,644 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:08:54,645 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:08:54,645 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.66
+2026-08-07 00:08:54,646 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.41
+2026-08-07 00:08:54,646 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.31
+2026-08-07 00:08:54,654 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:55,359 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.64
+2026-08-07 00:08:55,366 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:08:56,064 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.66
+2026-08-07 00:08:56,065 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:08:56,072 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Car', 'Bike']
+2026-08-07 00:08:56,763 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.61
+2026-08-07 00:08:56,764 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.60
+2026-08-07 00:08:56,764 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.34
+2026-08-07 00:08:56,771 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:08:57,459 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:08:57,460 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:08:57,460 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.62
+2026-08-07 00:08:57,460 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.27
+2026-08-07 00:08:57,468 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:08:58,901 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.47
+2026-08-07 00:08:58,902 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.41
+2026-08-07 00:08:58,902 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.29
+2026-08-07 00:08:58,909 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car']
+2026-08-07 00:08:59,588 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.74
+2026-08-07 00:08:59,588 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.69
+2026-08-07 00:08:59,589 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.30
+2026-08-07 00:08:59,596 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:09:00,293 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:09:00,293 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:09:00,294 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.53
+2026-08-07 00:09:00,294 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:09:00,302 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:09:00,995 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.53
+2026-08-07 00:09:01,002 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:09:01,691 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.68
+2026-08-07 00:09:01,692 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.40
+2026-08-07 00:09:01,698 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:09:02,405 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.72
+2026-08-07 00:09:02,406 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.71
+2026-08-07 00:09:02,406 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.27
+2026-08-07 00:09:02,412 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:09:03,103 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:09:03,104 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:09:03,104 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.50
+2026-08-07 00:09:03,105 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.30
+2026-08-07 00:09:03,112 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person']
+2026-08-07 00:09:04,514 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.50
+2026-08-07 00:09:04,515 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.29
+2026-08-07 00:09:04,522 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car']
+2026-08-07 00:09:05,216 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.73
+2026-08-07 00:09:05,217 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.68
+2026-08-07 00:09:05,217 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.34
+2026-08-07 00:09:05,223 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:09:05,917 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.86
+2026-08-07 00:09:05,918 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.86
+2026-08-07 00:09:05,918 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.38
+2026-08-07 00:09:05,919 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.31
+2026-08-07 00:09:05,919 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.29
+2026-08-07 00:09:05,928 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:09:06,627 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.30
+2026-08-07 00:09:06,634 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:09:07,331 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.52
+2026-08-07 00:09:07,332 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.44
+2026-08-07 00:09:07,332 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.29
+2026-08-07 00:09:07,333 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:09:07,340 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike']
+2026-08-07 00:09:08,096 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.74
+2026-08-07 00:09:08,097 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.69
+2026-08-07 00:09:08,097 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.32
+2026-08-07 00:09:08,104 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:09:08,816 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:09:08,817 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:09:08,817 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.65
+2026-08-07 00:09:08,818 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.53
+2026-08-07 00:09:08,818 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.46
+2026-08-07 00:09:08,826 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:09:09,535 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.26
+2026-08-07 00:09:09,542 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:09:10,396 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.86
+2026-08-07 00:09:10,397 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.52
+2026-08-07 00:09:10,397 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.51
+2026-08-07 00:09:10,398 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.37
+2026-08-07 00:09:10,398 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.33
+2026-08-07 00:09:10,406 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Car', 'Bike', 'Bike', 'Bike']
+2026-08-07 00:09:11,193 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.69
+2026-08-07 00:09:11,194 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.65
+2026-08-07 00:09:11,194 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.46
+2026-08-07 00:09:11,200 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:09:11,938 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.87
+2026-08-07 00:09:11,938 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:09:11,939 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.67
+2026-08-07 00:09:11,939 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.65
+2026-08-07 00:09:11,939 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.32
+2026-08-07 00:09:11,940 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.26
+2026-08-07 00:09:11,947 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:09:13,360 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.89
+2026-08-07 00:09:13,361 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.67
+2026-08-07 00:09:13,361 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.57
+2026-08-07 00:09:13,362 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.34
+2026-08-07 00:09:13,369 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:09:14,057 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.82
+2026-08-07 00:09:14,058 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.60
+2026-08-07 00:09:14,058 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.42
+2026-08-07 00:09:14,064 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:09:14,823 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.89
+2026-08-07 00:09:14,823 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:09:14,824 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.67
+2026-08-07 00:09:14,824 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.66
+2026-08-07 00:09:14,824 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.47
+2026-08-07 00:09:14,825 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.45
+2026-08-07 00:09:14,834 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:09:15,685 | DETECTION_SUBSCRIBER | INFO | Detected: Helmet | Confidence: 0.63
+2026-08-07 00:09:15,693 | DETECTION_SUBSCRIBER | INFO | Published to safety -> ['Helmet']
+2026-08-07 00:09:16,453 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.87
+2026-08-07 00:09:16,454 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.60
+2026-08-07 00:09:16,454 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.55
+2026-08-07 00:09:16,454 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.53
+2026-08-07 00:09:16,455 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.28
+2026-08-07 00:09:16,461 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car', 'Bike']
+2026-08-07 00:09:17,187 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.86
+2026-08-07 00:09:17,187 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.63
+2026-08-07 00:09:17,188 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.61
+2026-08-07 00:09:17,194 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Smoke', 'Fire']
+2026-08-07 00:09:17,832 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.87
+2026-08-07 00:09:17,833 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.84
+2026-08-07 00:09:17,834 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.48
+2026-08-07 00:09:17,834 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.37
+2026-08-07 00:09:17,835 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.30
+2026-08-07 00:09:17,844 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']
+2026-08-07 00:09:18,798 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.85
+2026-08-07 00:09:18,799 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.77
+2026-08-07 00:09:18,799 | DETECTION_SUBSCRIBER | INFO | Detected: Bike | Confidence: 0.72
+2026-08-07 00:09:18,800 | DETECTION_SUBSCRIBER | INFO | Detected: Car | Confidence: 0.47
+2026-08-07 00:09:18,804 | DETECTION_SUBSCRIBER | INFO | Published to vehicle -> ['Bike', 'Bike', 'Bike', 'Car']
+2026-08-07 00:09:19,258 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.80
+2026-08-07 00:09:19,259 | DETECTION_SUBSCRIBER | INFO | Detected: Fire | Confidence: 0.63
+2026-08-07 00:09:19,259 | DETECTION_SUBSCRIBER | INFO | Detected: Smoke | Confidence: 0.62
+2026-08-07 00:09:19,263 | DETECTION_SUBSCRIBER | INFO | Published to fire_smoke -> ['Fire', 'Fire', 'Smoke']
+2026-08-07 00:09:19,687 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.85
+2026-08-07 00:09:19,687 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.80
+2026-08-07 00:09:19,688 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.56
+2026-08-07 00:09:19,688 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.37
+2026-08-07 00:09:19,689 | DETECTION_SUBSCRIBER | INFO | Detected: Person | Confidence: 0.28
+2026-08-07 00:09:19,697 | DETECTION_SUBSCRIBER | INFO | Published to person_out -> ['Person', 'Person', 'Person', 'Person', 'Person']

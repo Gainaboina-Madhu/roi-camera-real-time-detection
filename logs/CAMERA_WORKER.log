@@ -1,0 +1,8 @@
+2026-08-06 23:57:24,603 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-08-06 23:57:24,603 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-08-06 23:57:24,609 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-08-06 23:57:24,610 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-08-07 00:07:08,862 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-08-07 00:07:08,862 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-08-07 00:07:08,863 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-08-07 00:07:08,863 | CAMERA_WORKER | INFO | Starting thread for c4

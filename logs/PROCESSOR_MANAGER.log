@@ -1,0 +1,4 @@
+2026-08-06 23:57:23,874 | PROCESSOR_MANAGER | INFO | Launching process for cameras: ['c1', 'c2']
+2026-08-06 23:57:23,882 | PROCESSOR_MANAGER | INFO | Launching process for cameras: ['c3', 'c4']
+2026-08-07 00:07:08,547 | PROCESSOR_MANAGER | INFO | Launching process for cameras: ['c1', 'c2']
+2026-08-07 00:07:08,554 | PROCESSOR_MANAGER | INFO | Launching process for cameras: ['c3', 'c4']
